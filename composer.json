@@ -1,0 +1,12 @@
+{
+    "name": "hanaokanan/arabic-typing",
+    "authors": [
+        {
+            "name": "hanaokanan",
+            "email": "nan.hanaoka@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
